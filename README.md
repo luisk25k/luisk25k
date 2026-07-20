@@ -33,19 +33,14 @@ Hi! I'm a **Mechatronics Engineer** dedicated to engineering project consulting.
 
 <br>
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=luisk25k&layout=compact&langs_count=5&theme=dark" alt="Top Languages" />
-</div>
+[<div align="center">![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=luisk25k&layout=compact&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=luisk25k&layout=compact&langs_count=5&theme=dark)
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=luisk25k&theme=dark" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-stats-extended.vercel.app/api?username=luisk25k&theme=dark" alt="GitHub Stats" />
-</div>
+[<div align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luisk25k&theme=dark)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=luisk25k&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
