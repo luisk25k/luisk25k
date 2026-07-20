@@ -33,7 +33,7 @@ Hi! I'm a **Mechatronics Engineer** dedicated to engineering project consulting.
 
 <br>
 
-[<div align="center">![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=luisk25k&layout=compact&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=luisk25k&layout=compact&langs_count=5&theme=dark)
+[<div align="center">![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=luisk25k&layout=compact&langs_count=5&theme=dark)</div>](https://github-stats-extended.vercel.app/api/top-langs?username=luisk25k&layout=compact&langs_count=5&theme=dark)
 
 ---
 
