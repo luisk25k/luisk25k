@@ -20,14 +20,17 @@ Hi! I'm a **Mechatronics Engineer** dedicated to engineering project consulting.
 ### 🛠️ Technologies & Tools
 
 <div align="center">
-  <!-- Main skills icons -->
+  <!-- Core Languages & Frameworks -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,html" alt="Python, Java, HTML" />
+    <!-- Puedes agregar más iconos aquí según lo que uses, ej: ts, react, nextjs -->
+    <img src="https://skillicons.dev/icons?i=py,java,ts,nextjs,html" alt="Tech Stack" />
   </a>
   <br><br>
-  <!-- Custom badges -->
-  <img src="https://img.shields.io/badge/Processing-000000?style=for-the-badge&logo=processing&logoColor=white" alt="Processing"/>
-  <img src="https://img.shields.io/badge/AI_Agents-009688?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
+  <!-- Modern App Dev & Infrastructure -->
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Clerk_Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"/>
+  <img src="https://img.shields.io/badge/API_Development-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs"/>
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
   <img src="https://img.shields.io/badge/Scientific_Research-4B32C3?style=for-the-badge&logo=microscope&logoColor=white" alt="Scientific Research"/>
 </div>
 
