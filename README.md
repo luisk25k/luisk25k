@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Mechatronics+Engineer+%E2%9A%99%EF%B8%8F;Project+Consultant;Scientific+Researcher+%F0%9F%94%AC;Tools+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Mechatronics+Engineer+%E2%9A%99%EF%B8%8F;Engineering+Project+Consultant+%F0%9F%92%BC;Scientific+Researcher+%F0%9F%94%AC;AI+Agents+%26+Tools+Developer+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </div>
 
@@ -8,48 +8,68 @@
 
 ### 👨‍💻 About Me
 
-Hi! I'm a **Mechatronics Engineer** dedicated to engineering project consulting. I enjoy building bridges between hardware, software, and applied research, always seeking to optimize processes.
+Hi! I'm **Luis Claros**, a **Mechatronics Engineer** specializing in engineering project consulting, applied research, and AI systems. I build bridges between hardware, software, and intelligent automation to optimize processes and solve complex technical challenges.
 
-- 🔭 Currently working as an **Engineering Project Consultant** and **Scientific Researcher**.
-- 💻 In my free time, I develop **web applications and tools** specifically designed to improve and automate my workflow.
-- 🤖 I have a strong focus and interest in the implementation of **Artificial Intelligence Agents**.
-- 📫 Connect with me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisclaros25)
+- 🔭 **Role:** Engineering Project Consultant & Scientific Researcher.
+- 🤖 **Focus:** Implementation of **Artificial Intelligence Agents**, automated workflows, and custom dev tools.
+- 💡 **Passion:** Integrating multidisciplinary engineering concepts into scalable digital and physical solutions.
+
+<br>
+
+<div align="center">
+  <a href="https://bazelconsult.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-bazelconsult.com-3b82f6?style=for-the-badge&logo=globe&logoColor=white" alt="Website" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/luisclaros25" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-luisclaros25-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 ---
 
 ### 🛠️ Technologies & Tools
 
 <div align="center">
-  <!-- Core Languages & Frameworks -->
+  <!-- Primary Tech Stack Icons -->
   <a href="https://skillicons.dev">
-    <!-- Puedes agregar más iconos aquí según lo que uses, ej: ts, react, nextjs -->
-    <img src="https://skillicons.dev/icons?i=py,java,ts,nextjs,html" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,fastapi,docker,html,css,git,vscode&perline=6" alt="Tech Stack" />
   </a>
   <br><br>
-  <!-- Modern App Dev & Infrastructure -->
+  <!-- Specialized Tools & Infrastructure Badges -->
+  <img src="https://img.shields.io/badge/Turso_DB-00E599?style=for-the-badge&logo=sqlite&logoColor=black" alt="Turso"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Clerk_Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"/>
-  <img src="https://img.shields.io/badge/API_Development-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs"/>
   <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
   <img src="https://img.shields.io/badge/Scientific_Research-4B32C3?style=for-the-badge&logo=microscope&logoColor=white" alt="Scientific Research"/>
 </div>
-
-<br>
-
-[<div align="center">![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=luisk25k&layout=compact&langs_count=5&theme=dark)</div>](https://github-stats-extended.vercel.app/api/top-langs?username=luisk25k&layout=compact&langs_count=5&theme=dark)
 
 ---
 
 ### 📊 GitHub Stats
 
-[<div align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luisk25k&theme=dark)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=luisk25k&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisk25k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisk25k&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisk25k&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 📂 Featured Projects
+### 🐍 Contribution Activity
 
-*Currently, most of my repositories (consulting and research work) are **private** due to confidentiality agreements and ongoing investigations. However, I am working on several open-source tools and AI agent implementations that will be published here in the near future. Stay tuned!*
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisk25k/luisk25k/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisk25k/luisk25k/output/github-contribution-grid-snake.svg">
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/luisk25k/luisk25k/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <br>
 
