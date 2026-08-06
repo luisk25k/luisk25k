@@ -49,17 +49,14 @@ Hi! I'm **Luis Claros**, a **Mechatronics Engineer** specializing in engineering
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Anurag's GitHub Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=luisk25k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anurag's GitHub Stats" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=luisk25k&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <br><br>
-  <!-- Anurag's Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisk25k&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=luisk25k&layout=compact&langs_count=5&theme=tokyonight">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=luisk25k&layout=compact&langs_count=5&theme=tokyonight" alt="Top Languages" />
   </a>
   <br><br>
-  <!-- DenverCoder1's GitHub Streak Stats -->
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisk25k&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
